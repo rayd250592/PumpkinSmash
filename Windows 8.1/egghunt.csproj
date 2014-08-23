@@ -14,7 +14,7 @@
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <PackageCertificateKeyFile>egghunt_StoreKey.pfx</PackageCertificateKeyFile>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
-    <PackageCertificateThumbprint>E28C5B0AB1F357FD6089F3FDA90773957D3D5868</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>550DFAB7B3A5440AB81163D1850B6D935C114F2C</PackageCertificateThumbprint>
     <TargetPlatformVersion>8.1</TargetPlatformVersion>
     <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>

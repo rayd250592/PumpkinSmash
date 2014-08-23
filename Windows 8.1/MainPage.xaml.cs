@@ -129,6 +129,12 @@ namespace egghunt
 
         }
 
+        private async void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageDialog msg = new MessageDialog("Developed by Raymond Dillon");
+            await msg.ShowAsync();
+        }
+
        
 
 
